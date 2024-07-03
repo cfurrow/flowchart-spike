@@ -19,4 +19,6 @@ npm install
 npm run serve
 ```
 
+You should see something like this:
 
+![Screenshot](./example.png)
