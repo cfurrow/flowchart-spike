@@ -4,3 +4,11 @@
   border: 5px solid #000;
   margin: 0 auto;
 }
+
+.react-flow__handle.source {
+  background-color: #f38006;
+}
+
+.react-flow__handle.target {
+  background-color: #38b521;
+}
